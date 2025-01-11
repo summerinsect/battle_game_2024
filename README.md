@@ -92,7 +92,7 @@ git clone https://github.com/microsoft/vcpkg.git
 
 7. 我们需要你将你的运行结果截图提交到 PR 的备注中，截图应当包含画面左上角你的单位的名称和你使用的作者名。我们需要在验收时看到你的截图。
 
-### 3、提出一个新功能的想法到 Issues 列表 【5 pts】
+### 3、提出一个新功能的想法到 Issues 列表 【10 pts】
 
 有时你有一个很好的想法，但是没有办法立刻实现，
 或者你发现项目中存在一个 Bug，希望以后去修复。
@@ -105,19 +105,14 @@ git clone https://github.com/microsoft/vcpkg.git
 如果前面已经有同学提过类似或者相同的问题，那就不要再重复提交了。
 我们不在意你提的问题是复杂还是简单，只要是一个有效的问题，你都可以直接拿到这个子任务的 5 分！
 
-### 4、自由创造 【5 pts】
+### 4、自由创造 【0 pts】
 
+你如果希望多做一些贡献那就更好了，毕竟，这个项目就是为了大家能够体会编程的乐趣！
 在同学们提出很多好的 idea 后，我们希望能够把他们一一变为现实。
-你可以从 Issues 列表中选择一个你认为自己可以解决的部分，然后提交一个新的 PR 实现这个功能。
-在实现完成后，你同样需要将你的运行结果截图提交到 PR 的备注中。同时，请在备注中加入 Close #IssueNumber 的方式关联你的 PR 和 Issue。
+你可以从 Issues 列表中选择一个你认为自己可以解决的部分，你可以申领这个 Issue，然后提交 PR 实现并关闭之。
+你可以和同学合作完成，在提交 PR 时请说明每个人贡献了哪部分代码。
 Good Luck and Have Fun！
 
 ## 验收
 
-在 GitHub 上完成以上所有任务后，请在网络学堂提交一个文本文件，包含你提交的所有 PR 的链接以及你提交的 Issue 的链接。
-
-PR 和 Issue 的范例参考：
-
-[https://github.com/Yao-class-cpp-studio/battle_game_2024/pull/1](https://github.com/Yao-class-cpp-studio/battle_game_2024/pull/1)
-
-[https://github.com/Yao-class-cpp-studio/battle_game_2024/issues/2](https://github.com/Yao-class-cpp-studio/battle_game_2024/issues/2)
+在 GitHub 上完成以上所有任务后，请在网络学堂提交一个文本文件，包含你提交的 PR 的链接以及你提交的 Issue 的链接。
